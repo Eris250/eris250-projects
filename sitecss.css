@@ -182,11 +182,3 @@ hr.solid {
 .img-size-200{
     width: 200px !important;
 }
-
-/*A simple way to check everything!*/
-/* { 
-    outline: 1px solid #f00 !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-}*/
-
